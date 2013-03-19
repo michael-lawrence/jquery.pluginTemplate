@@ -1,0 +1,27 @@
+{
+	"name": "jquery.pluginTemplate",
+	"version": "1.0.0",
+	"description": "Simple jQuery plugin template with CommonJS and AMD support.",
+	"homepage": "https://github.com/michael-lawrence/jquery.pluginTemplate",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"jquery",
+		"plugin"
+	],
+	"main": "./jquery.pluginTemplate",
+	"dependencies": {
+		"jquery" : "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/michael-lawrence/jquery.pluginTemplate.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/jquery.pluginTemplate/issues"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
