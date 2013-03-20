@@ -10,7 +10,6 @@ Simple jQuery plugin template with CommonJS and AMD support.
 {
 	'name' : 'myPlugin',
 	'isStatic' : false,
-    'deps' : ['jquery'],
 	'factory' : function ($) {
 		return function () {
 			// implementation
